@@ -1,11 +1,11 @@
 
-
+import FashionLoading from './components/FashionLoading'
 function App() {
 
   return (
-    <>
-     <h1>Welcome to Utility</h1>
-    </>
+   <>
+    <FashionLoading />
+   </>
   )
 }
 
